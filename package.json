@@ -1,0 +1,22 @@
+{
+  "name": "remaining-balances",
+  "version": "1.0.0",
+  "description": "",
+  "main": "remaining-balances.js",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "dotenv": "^8.0.0",
+    "human-standard-token-abi": "^2.0.0",
+    "lowdb": "^1.0.0",
+    "minimist": "^1.2.0",
+    "node-json-db": "^1.0.1",
+    "time-stamp": "^2.2.0",
+    "web3": "1.0.0-beta.36"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
